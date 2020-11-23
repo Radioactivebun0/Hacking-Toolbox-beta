@@ -1,0 +1,1 @@
+https://www.shellhacks.com/linux-proxy-server-settings-set-proxy-command-line/#:~:text=To%20use%20a%20proxy%20on%20the%20Linux%20command-line%2C,ftp%2C%20wget%2C%20curl%2C%20ssh%2C%20apt-get%2C%20yum%20and%20others.
